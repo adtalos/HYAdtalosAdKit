@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "HYAdtalosAdKit"
-  spec.version      = "1.0.5"
+  spec.version      = "0.0.2"
   spec.summary      = "HYAdtalosAdKit 广告 SDK"
 
   spec.description  = <<-DESC
