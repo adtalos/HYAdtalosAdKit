@@ -1,0 +1,4 @@
+framework module HYAdtalosAdKit {
+  header "HYAdtalosAdKit-Swift.h"
+  requires objc
+}
