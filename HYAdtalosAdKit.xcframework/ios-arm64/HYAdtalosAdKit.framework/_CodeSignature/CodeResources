@@ -4,41 +4,49 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AdtalosEventModel.momd/AdtalosEventModel 2.mom</key>
+		<data>
+		a306YDtVWwhHHpzZVTnGYZk8gGc=
+		</data>
+		<key>AdtalosEventModel.momd/AdtalosEventModel 2.omo</key>
+		<data>
+		cBqbc8fD4em2qWQcwM4vgVMAUZE=
+		</data>
 		<key>AdtalosEventModel.momd/AdtalosEventModel.mom</key>
 		<data>
 		7iMYU8Nf3QT0eNuuxZAoCmdcOTs=
 		</data>
 		<key>AdtalosEventModel.momd/VersionInfo.plist</key>
 		<data>
-		RG4WvAdG05YS4PCBuWzZjI/RTGs=
+		FifrgoIV82ehtNFL0ZCDIPDhuE8=
 		</data>
 		<key>Headers/HYAdtalosAdKit-Swift.h</key>
 		<data>
-		gIhZAAhEBfDTb/ElXShLYqWedZI=
+		Mak2GxNy1YtBwZrOqrQfedJJCw8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UpQYT2TvLtGimT/56gEAQ0N3gXI=
+		zZB7RCEMpQMlaMTPrzUSumCBSr8=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		2ZshFTf/+qwlbCM98zi5cg8X5yE=
+		CVk/2GAt5gj/Os+jTfxrUiZF3YU=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		fReOsUkkM77zAiHH1lrwEHZiqqY=
+		WBvqgx25qf2K8D+WMztpR1A+1GA=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		KjaaJ3DtWcvhk/pXjwKzpxOsJKo=
+		/eVKvTGVuzzmYg7yRIYmGxdX9S4=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		fReOsUkkM77zAiHH1lrwEHZiqqY=
+		WBvqgx25qf2K8D+WMztpR1A+1GA=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		5DFq/Hq7lZdqOf8BeMlWxFqmu28=
+		kqYHz8oWjMtm5O7QDpS66L+D9SU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,6 +59,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AdtalosEventModel.momd/AdtalosEventModel 2.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1nL0ocVW1dFMAH9NB+IYBuXNiB6sF7e/dwD0bLSq3BQ=
+			</data>
+		</dict>
+		<key>AdtalosEventModel.momd/AdtalosEventModel 2.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iLgcQyeFf0HfEdkrc9FU3E8XQ+dDGprz70Tc+9dkp9E=
+			</data>
+		</dict>
 		<key>AdtalosEventModel.momd/AdtalosEventModel.mom</key>
 		<dict>
 			<key>hash2</key>
@@ -62,49 +84,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pqeq5tBILx4ZobHFaWzrapr0K7KAHq/Sa4vD2xUp1I=
+			c9Ai5a2B4W7df5G0nOMcgYFAD+kGZ11a8VW8aAnDge0=
 			</data>
 		</dict>
 		<key>Headers/HYAdtalosAdKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0NNEBpQtqGpyC9Oyy6JJJbuaHIwo/fjv5a7VKiueQUY=
+			Ar1QsATSQnY+N07qUKHFTgPrDimyCVckyO7fDen0vAo=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R17y4ikI+QoqhDaqbuJVgH72eMBSkEvAPgxbKL9SohQ=
+			hci3NTLCQLQFpfeEQh1hUgWbVkguiGGCeivIOP/LkRI=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dWvEEF9L7KDxaS18iI9NDDLbWUnJ5ZILW8VVILTgfFI=
+			rcfYNAT1U4e+xy8N/6qcFhOIItyXhSq891Qqn5dIqq4=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bkmUwq9pou/cX5lkhMWw50NwzoiSiulImFkf3klfOOY=
+			7u907W7ncKXsAq4NJe29m0nn3IOwM2YXXJAszCjF1os=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dWvEEF9L7KDxaS18iI9NDDLbWUnJ5ZILW8VVILTgfFI=
+			rcfYNAT1U4e+xy8N/6qcFhOIItyXhSq891Qqn5dIqq4=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vMGvkulg3bYDGlL95ZyLh1vGgSQ9Jtx1EEIl4dgdXrs=
+			8zmsKjh8eOIeOozU/rTYXaoZleOoQgFxLWJlG1RwJ8k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
