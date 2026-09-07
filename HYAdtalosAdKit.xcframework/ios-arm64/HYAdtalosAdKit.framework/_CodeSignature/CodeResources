@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZcoWTEh5i22gmtMnnnPm170LVRs=
+		WhDYCt9bCAEKVBS84r3i9xZED74=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SoJstyIJYIsbcgk+vPR74Gx77/M=
+		GtDK1QJoxwsohLGobeeZ6BwV9tI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rsvXjxfHdqQRHbzJgQ4nG0plBc+KsXubl7BoXeyeNjg=
+			7KcSaXjphq6ziIQXt6GrWErJzy9dWvi6U9ygNDK4rsk=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cOWq6oDEA3aFhNFShzcRHoeGvuq/KBOhyKyvlkLFcas=
+			gcIQiDJ2gY5rmMRhaIW3N/dynP71Ex07mblpeszg4W8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
