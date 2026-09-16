@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xLXpj19nPZh6s5+GQZvOUYrz7Fg=
+		46bjnkfoZDGL/Ct0Ox6Oq3OKGK8=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		WhDYCt9bCAEKVBS84r3i9xZED74=
+		pxT0rcqwPK9JJQN5MI55PWVwTYs=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HXi7CNzEyBjzGpf7O6FWXWOzTzI=
+		nRBuP+xb+AO0VpxWFQn/xg6V9LA=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		WhDYCt9bCAEKVBS84r3i9xZED74=
+		pxT0rcqwPK9JJQN5MI55PWVwTYs=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7deF3o0ReYyEnAmS/ou7X81m5PI=
+		bswqmjji4U2qLQSeKPSUJngGphE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -118,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7KcSaXjphq6ziIQXt6GrWErJzy9dWvi6U9ygNDK4rsk=
+			TamICdZKtWwbuWwGGW8oxyeFl7oilmJYoITW4DZ5Y/s=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -146,14 +146,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9TOU4swFAJxzTMYIcU678I/OGaGzCVxP5teqIjpw2X8=
+			k5fy3+Gc472LrQnTXx1pRNSgo/615fMEmJoGdwphIB8=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7KcSaXjphq6ziIQXt6GrWErJzy9dWvi6U9ygNDK4rsk=
+			TamICdZKtWwbuWwGGW8oxyeFl7oilmJYoITW4DZ5Y/s=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -181,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T92ztzyVVWA2nFURKFWR59f6MTpiDaYhAmRhO1t60Lc=
+			Win8J/nLCj8+MqyGEfMFXotVN0gF8vB7W6Q6mrLJZpc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
