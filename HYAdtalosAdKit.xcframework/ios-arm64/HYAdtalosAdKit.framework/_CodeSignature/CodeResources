@@ -22,31 +22,31 @@
 		</data>
 		<key>Headers/HYAdtalosAdKit-Swift.h</key>
 		<data>
-		8vhLusA6e1bmLgUj5P9uvbZ8Ug0=
+		Oo+woYe6nyCtjad92AVDx5rKjeY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TcpCFU6CAVhXDnQrV+fNodFdpCw=
+		X3s7ZY8Rnucn1LSMTkgMqS9hiR4=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		pxT0rcqwPK9JJQN5MI55PWVwTYs=
+		e56J1Pv1BxlQVHeze7kJ6kxurv8=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		7/Bt5qxGSeKYwmXFcwxOd0KUqKs=
+		OuXHXr/jeqa8htUwxDCXqEssa4U=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/eVKvTGVuzzmYg7yRIYmGxdX9S4=
+		BtXRx4Eo3Wqw7rkOYPNLBr7ro1g=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7/Bt5qxGSeKYwmXFcwxOd0KUqKs=
+		OuXHXr/jeqa8htUwxDCXqEssa4U=
 		</data>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zR3H7vBtn3XxCv7VB3Kcfx1BVys=
+		cUg0x7yRWbZeeAmatuZ6r/BXsUY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,42 +91,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8bB5EkmIQYOhswQrKJZyIykLXH/V3UwPoUoVeV4yjOM=
+			zgWGBCGaXqeulPmEXqzhT6D5vXqzbut+IXTgLtRSBaw=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TamICdZKtWwbuWwGGW8oxyeFl7oilmJYoITW4DZ5Y/s=
+			QpVEHylBKYbzAN9MHoHn6oBoaJRoaLwSakPbwkmrLyY=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5TsKeI5q+YQ0kokEirrKLMq/YKVjT4oQa7oDvDSjtSc=
+			Thu/K0x/Xl2ld9KZjUJyeAi74YB32T3FRNqNySlSKFU=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7u907W7ncKXsAq4NJe29m0nn3IOwM2YXXJAszCjF1os=
+			nEO7iutWHE+gsyRt19PV43dEFQE+Rx/V6CFGgsVfmlQ=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5TsKeI5q+YQ0kokEirrKLMq/YKVjT4oQa7oDvDSjtSc=
+			Thu/K0x/Xl2ld9KZjUJyeAi74YB32T3FRNqNySlSKFU=
 			</data>
 		</dict>
 		<key>Modules/HYAdtalosAdKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GeVnZj6dctEqbuqxTf8CCOHeFgGmIrPZ99bl+PBIM78=
+			yhoWvWHa6JWDkkEcI4iWm7ZaHqPgPHdHKrJWTy1g3rc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
